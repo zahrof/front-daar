@@ -1,0 +1,18 @@
+.container {
+  text-align: left;
+  width: 360px;
+  display: inline-block;
+  margin-right: 50px;
+  padding: 40px 80px;
+  
+}
+
+.container-results {
+    background-color: lemonchiffon;
+    box-shadow: 0 8px 8px #cccccc;
+    border-style: dashed;
+    padding-left: 20%;
+    height: auto;
+}
+
+

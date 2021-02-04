@@ -1,0 +1,8 @@
+.searcher{
+  padding: 40px 80px;
+}
+
+.searcher-element{
+  display: inline-block;
+  margin-right: 10px;
+}
